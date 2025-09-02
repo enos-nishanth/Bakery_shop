@@ -92,3 +92,5 @@ BakeryShop/
 👉 This is a **practice project** to understand HTML forms, validation, and basic UI structuring.
 
 ##Link
+
+https://enos-nishanth.github.io/Bakery_shop/
